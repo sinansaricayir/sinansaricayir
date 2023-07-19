@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinansaricayir&label=Profile%20views&color=0e75b6&style=flat" alt="sinansaricayir" /> </p>
 
-- 💬 Ask me about **.NET , Next.js , MERN Stack**
+- 💬 Ask me about **Php - Laravel , .NET , Next.js , MERN Stack**
 
 - 📫 How to reach me **www.saricayirsinan.com** 
 
