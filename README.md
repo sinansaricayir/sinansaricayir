@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinansaricayir&label=Profile%20views&color=0e75b6&style=flat" alt="sinansaricayir" /> </p>
 
-- 💬 Ask me about **Php & Laravel , JavaScript, Vue.js, React.js | Next.js & MERN Stack**
+- 💬 Ask me about **Php & Laravel | .NET | JavaScript, Vue.js, React.js , Next.js & MERN Stack**
 
 - 📫 How to reach me **www.sinansaricayir.com** 
 
